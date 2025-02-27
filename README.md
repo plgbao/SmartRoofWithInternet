@@ -1,6 +1,6 @@
 SMART ROOF  CONNECTED WITH INTERNET 
 In this project, I have designed a smart roof using in smart home model using ESP8266
-To explore the project you can git clone using this command: gitclone 
+To explore the project you can git clone using this command: gitclone https://github.com/plgbao/SmartRoofWithInternet.git
 TABLE OF CONTENT
 1. Introduction
 2. Connect ESP8266 with Arduino Uno
